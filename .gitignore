@@ -1,1 +1,5 @@
 data/
+processed-celeba-small.zip
+processed_celeba_small/
+__pycache__/
+.ipynb_checkpoints/
